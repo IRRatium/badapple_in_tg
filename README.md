@@ -102,7 +102,7 @@ ffmpeg -version
 ### 3. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/ВАШ_ЮЗЕРНЕЙМ/ВАШ_РЕПО.git
+git clone https://github.com/IRRatium/badapple_in_tg.git
 cd ВАШ_РЕПО
 ```
 
