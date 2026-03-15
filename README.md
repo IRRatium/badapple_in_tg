@@ -103,7 +103,7 @@ ffmpeg -version
 
 ```bash
 git clone https://github.com/IRRatium/badapple_in_tg.git
-cd ВАШ_РЕПО
+cd badapple_in_tg
 ```
 
 ---
