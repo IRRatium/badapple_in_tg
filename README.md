@@ -260,12 +260,6 @@ MIT — самая простая и свободная лицензия. Есл
 
 ---
 
-## Contributors
-
-- [IRRatium](https://github.com/IRRatium) — автор
-- [Claude](https://claude.ai) (Anthropic) — помощь с кодом и документацией
-
----
 
 ## Важно
 
