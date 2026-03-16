@@ -9,6 +9,12 @@
 
 ---
 
+## Демо
+
+[![Bad Apple in Telegram](https://img.youtube.com/vi/waCYXi7pAp0/maxresdefault.jpg)](https://www.youtube.com/watch?v=waCYXi7pAp0)
+
+---
+
 ## Как это работает
 
 ### Проигрыватель (`bot.py`)
