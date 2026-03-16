@@ -116,17 +116,6 @@ cd badapple_in_tg
 
 ### 4. Создать виртуальное окружение
 
-**Windows (cmd / PowerShell):**
-```
-python -m venv venv
-venv\Scripts\activate
-```
-
-> Если PowerShell ругается на политику выполнения скриптов:
-> ```
-> Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
-> ```
-
 **Linux / macOS:**
 ```bash
 python3 -m venv venv
@@ -268,6 +257,13 @@ python3 cutter_bot.py  # Linux / macOS
 - Работоспособность — код предоставляется «как есть» (as is), без каких-либо гарантий
 
 MIT — самая простая и свободная лицензия. Если ты форкаешь или публично переиспользуешь проект, достаточно оставить строчку с именем автора в коде или README.
+
+---
+
+## Contributors
+
+- [IRRatium](https://github.com/IRRatium) — автор
+- [Claude](https://claude.ai) (Anthropic) — помощь с кодом и документацией
 
 ---
 
