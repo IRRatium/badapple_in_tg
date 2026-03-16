@@ -1,3 +1,4 @@
+# Bad Apple video player using Telegram premium emoji
 import asyncio
 import os
 from dotenv import load_dotenv
@@ -100,7 +101,8 @@ async def build_emoji_html(bot: Bot, pack_name: str) -> str | None:
 def format_text(current_idx: int, total: int, grid: str) -> str:
     """Формирует итоговый текст кадра с заголовком и сеткой."""
     return (
-        f"BAD APPLE: RUNNING [{current_idx}/{total}]\n"
+        f"BAD APPLE: RUNNING [{current_idx}/{total}]
+"
         f"----------------------------------------\n"
         f"{grid}\n"
         f"----------------------------------------"
